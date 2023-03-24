@@ -11,3 +11,4 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:1999martyns.com.br">) Clique aqui para me mandar um Email 💬
 
 ## ""Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário."
+![Snake animation](https://github.com/Opedromartyns/Opedromartyns/blob/output/github-contribution-grid-snake.svg)

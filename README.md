@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opedromartyns)](https://github.com/Opedromartyns/github-readme-stats)
 
 ## "Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário."
-![snake gif](https://github.com/Opedromartyns/Opedromartyns/blob/output/github-contribution-grid-snake.svg)
+

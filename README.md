@@ -13,4 +13,4 @@
 
  <img src="https://i.pinimg.com/originals/d1/19/7e/d1197e58dd9b8740316f576061396d00.gif" alt="Minha Figura">
 
- ## "Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário."
+ 

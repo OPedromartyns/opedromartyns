@@ -11,6 +11,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opedromartyns)](https://github.com/Opedromartyns/github-readme-stats)
 
 
- <img src="https://i.pinimg.com/originals/d1/19/7e/d1197e58dd9b8740316f576061396d00.gif" alt="Minha Figura">
+ <img src="https://blog.appi9.com/wp-content/uploads/2020/06/1_L_QoAG863l8QvqxpNyBiqw.gif" alt="Minha Figura">
 
  

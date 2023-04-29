@@ -1,5 +1,5 @@
 # Olá eu sou o Pedro Martyns 🦊
-## Visite  meu Portilolio aqui 👉 [![Portifolio](https://img.icons8.com/?size=512&id=ezygyOmhtLWn&format=png)](https://pedromartyns.netlify.app/)
+## Visite  meu Portilolio aqui 👉 [![Portifolio](https://img.icons8.com/?size=1x&id=ezygyOmhtLWn&format=png)](https://pedromartyns.netlify.app/)
 ## Bem vindo ao meu perfil
 ### Minhas redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/opedromartyns/)

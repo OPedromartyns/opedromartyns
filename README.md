@@ -7,9 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-martins-83568a20a/) 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:1999martyns.com.br">) 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Opedromartyns&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Opedromartyns)](https://github.com/Opedromartyns/github-readme-stats)
 
 
  <img src="https://blog.appi9.com/wp-content/uploads/2020/06/1_L_QoAG863l8QvqxpNyBiqw.gif" alt="Minha Figura">

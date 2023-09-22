@@ -1,5 +1,5 @@
 # Olá eu sou o Pedro Martyns 🦊
-## Visite  meu Portilolio aqui 👉 [![Portifolio](https://img.icons8.com/?size=1x&id=ezygyOmhtLWn&format=png)](https://pedro-martyns.vercel.app/)
+## Visite  meu Portilolio aqui 👉 [![Portifolio](https://img.icons8.com/?size=1x&id=ezygyOmhtLWn&format=png)](https://opedromartyns.vercel.app/)
 ## Bem vindo ao meu perfil
 ### Minhas redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/opedromartyns/)
@@ -10,6 +10,6 @@
 
 
 
- <img src="https://thumbs.gfycat.com/HastyAntiqueBetafish-size_restricted.gif" alt="Minha Figura">
+ <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="Minha Figura">
 
  

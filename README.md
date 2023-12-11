@@ -11,6 +11,6 @@
 
 
 
+<<<<<<< HEAD
  <img src="https://raw.githubusercontent.com/OPedromartyns/opedromartyns/main/fotopedro.jpg" alt="Minha Figura">
 
- 

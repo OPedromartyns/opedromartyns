@@ -11,6 +11,6 @@
 
 
 
- <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="Minha Figura">
+ <img src="[https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif](https://github.com/OPedromartyns/opedromartyns/blob/main/fotopedro.jpg?raw=true)https://github.com/OPedromartyns/opedromartyns/blob/main/fotopedro.jpg?raw=true" alt="Minha Figura">
 
  
